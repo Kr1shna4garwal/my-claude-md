@@ -1,0 +1,19 @@
+{
+  "workspace": { "current_dir": "/tmp" },
+  "model": { "display_name": "Opus 4.8" },
+  "cost": {
+    "total_cost_usd": 1.234,
+    "total_lines_added": 120,
+    "total_lines_removed": 34,
+    "total_duration_ms": 3725000
+  },
+  "context_window": {
+    "remaining_percentage": 58,
+    "context_window_size": 1000000,
+    "current_usage": {
+      "input_tokens": 1000,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 9000
+    }
+  }
+}

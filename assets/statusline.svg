@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-label="Statusline: model, folder and git branch on the first line. Context bar at 42 percent, cost, session time and cache hit rate on the second line.">
+  <rect width="640" height="150" rx="10" fill="#161b22"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="20" r="6" fill="#28c840"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" xml:space="preserve">
+    <text x="22" y="68"><tspan fill="#c9d1d9">[Opus 4.8]</tspan><tspan fill="#58a6ff"> 📁 my-claude-md</tspan><tspan fill="#6e7681"> │ </tspan><tspan fill="#39c5cf">🌿 main</tspan></text>
+    <text x="22" y="116"><tspan fill="#3fb950">█████</tspan><tspan fill="#484f58">⣿⣿⣿⣿⣿⣿⣿</tspan><tspan fill="#c9d1d9"> 42%</tspan><tspan fill="#6e7681"> │ </tspan><tspan fill="#d29922">$1.23</tspan><tspan fill="#6e7681"> │ </tspan><tspan fill="#39c5cf">⏱ 1h 2m</tspan><tspan fill="#6e7681">  ↻90%</tspan></text>
+  </g>
+</svg>
